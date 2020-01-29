@@ -1,0 +1,7 @@
+Project: EWARM
+Converter: IARProjectParser
+Date: 20191204
+
+Project needs GCC compatible startup code and linker script
+IDIRY_ADC: FPU set to default FPU for device: FPv4-SP-D16.
+IDIRY_ADC: FPU set to default FPU for device: FPv4-SP-D16.
